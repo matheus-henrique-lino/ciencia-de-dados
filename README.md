@@ -1,2 +1,2 @@
-# exercicios-java
-Este tem objetivo de armazenar exercícios desenvolvidos em Java.
+# exercicios-ciência de dados
+Este tem objetivo de armazenar exercícios de ciência de dados.
